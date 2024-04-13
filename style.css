@@ -1,0 +1,208 @@
+.pagina1 {
+    text-align: center;
+    text-align: center;
+    margin-top: 0%;
+}
+
+.pagina2 {
+    text-align: center;
+    margin-top: 1px;
+}
+
+.advert2 {
+    text-align: center;
+    margin-top: 200px;
+    margin: auto auto;
+    padding-left: 260px;
+    padding-right: 260px;
+    margin-bottom: 15px;
+
+
+
+}
+
+.advert {
+    padding-left: 260px;
+    padding-right: 260px;
+}
+
+.img {
+    text-align: center;
+    margin-top: 0%;
+
+
+}
+
+
+hr {
+    color: rgb(233, 57, 57);
+}
+
+.link {
+    padding-left: 230px;
+    padding-right: 230px;
+
+}
+
+a:hover {
+    text-decoration: none;
+    color: red;
+    transition: 0.3;
+    transform-style: 0.3;
+
+
+}
+
+nav {
+    text-decoration: none;
+    color: rgb(179, 52, 52);
+    transition: 0.3;
+    transform-style: 0.3;
+}
+
+a {
+    color: darkgray;
+    text-decoration: none;
+    border: 2px solid darkgray;
+
+}
+
+.sla1 {
+    text-align: center;
+    padding-right: 35px;
+
+
+
+}
+
+
+
+
+p {
+    display: inline-block;
+    padding-left: 260px;
+    margin-top: 0%;
+
+}
+
+.bola {
+    text-align: center;
+    margin-bottom: 5px;
+    margin-top: auto auto;
+}
+
+
+
+
+
+.gg {
+    margin-right: 520px;
+}
+
+.bolas {
+    display: inline-flex;
+    text-align: center;
+    margin-left: 360px;
+    margin-bottom: 20px;
+
+
+}
+
+.bola1 {
+    margin-left: 30px;
+    text-align: center;
+}
+
+.bola2 {
+    margin-left: 30px;
+    text-align: center;
+}
+
+.bola3 {
+    margin-left: 30px;
+    text-align: center;
+}
+
+.bola4 {
+    margin-left: 30px;
+    text-align: center;
+}
+
+.bola5 {
+    margin-left: 30px;
+    text-align: center;
+}
+
+.bola6 {
+    margin-left: 30px;
+    text-align: center;
+
+}
+
+.cent {
+    text-align: center;
+    margin-left: 20px;
+    align-items: center;
+}
+
+footer {
+    text-align: center;
+    margin-right: 265px;
+}
+
+
+
+h1 {
+    text-align: center;
+    background-color: darkgrey;
+    margin-top: auto;
+
+
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.nv {
+    margin-left: 262px;
+
+
+
+}
+
+.ss {
+
+    border: 1px solid darkgray;
+    margin-bottom: 20px;
+    
+    
+
+
+
+
+
+}
+
+.bolass {
+    display: inline-flex;
+    text-align: center;
+    margin-right: 250px;
+    margin-bottom: 20px;
+    margin-left: 200px;
+    align-items: center;
+    
+
+
+}
+
+.princ {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+
+form {
+    border: 1px solid darkgray;
+    margin-left: 100px;
+    margin-right: 100px;
+    
+}
