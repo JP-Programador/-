@@ -1,99 +1,73 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.pagina1, .pagina2, .advert2, .advert, .img, .sla1, .bola, .bolas, .cent, footer, .nv, .bolass, .princ, form {
+    text-align: center;
+}
+
 .pagina1 {
-    text-align: center;
-    text-align: center;
     margin-top: 0%;
 }
 
 .pagina2 {
-    text-align: center;
     margin-top: 1px;
 }
 
 .advert2 {
-    text-align: center;
+    margin: auto;
+    padding: 0 260px;
     margin-top: 200px;
-    margin: auto auto;
-    padding-left: 260px;
-    padding-right: 260px;
     margin-bottom: 15px;
-
-
-
 }
 
 .advert {
-    padding-left: 260px;
-    padding-right: 260px;
+    padding: 0 260px;
 }
 
 .img {
-    text-align: center;
     margin-top: 0%;
-
-
 }
-
 
 hr {
     color: rgb(233, 57, 57);
 }
 
 .link {
-    padding-left: 230px;
-    padding-right: 230px;
-
-}
-
-a:hover {
-    text-decoration: none;
-    color: red;
-    transition: 0.3;
-    transform-style: 0.3;
-
-
-}
-
-nav {
-    text-decoration: none;
-    color: rgb(179, 52, 52);
-    transition: 0.3;
-    transform-style: 0.3;
+    padding: 0 230px;
 }
 
 a {
     color: darkgray;
     text-decoration: none;
     border: 2px solid darkgray;
+}
 
+a:hover {
+    text-decoration: none;
+    color: red;
+    transition: color 0.3s;
+}
+
+nav {
+    color: rgb(179, 52, 52);
+    transition: color 0.3s;
 }
 
 .sla1 {
-    text-align: center;
     padding-right: 35px;
-
-
-
 }
-
-
-
 
 p {
     display: inline-block;
     padding-left: 260px;
     margin-top: 0%;
-
 }
 
 .bola {
-    text-align: center;
+    margin: auto;
     margin-bottom: 5px;
-    margin-top: auto auto;
 }
-
-
-
-
 
 .gg {
     margin-right: 520px;
@@ -101,108 +75,61 @@ p {
 
 .bolas {
     display: inline-flex;
-    text-align: center;
     margin-left: 360px;
     margin-bottom: 20px;
-
-
 }
 
-.bola1 {
+.bola1, .bola2, .bola3, .bola4, .bola5, .bola6 {
     margin-left: 30px;
-    text-align: center;
-}
-
-.bola2 {
-    margin-left: 30px;
-    text-align: center;
-}
-
-.bola3 {
-    margin-left: 30px;
-    text-align: center;
-}
-
-.bola4 {
-    margin-left: 30px;
-    text-align: center;
-}
-
-.bola5 {
-    margin-left: 30px;
-    text-align: center;
-}
-
-.bola6 {
-    margin-left: 30px;
-    text-align: center;
-
 }
 
 .cent {
-    text-align: center;
     margin-left: 20px;
     align-items: center;
 }
 
 footer {
-    text-align: center;
     margin-right: 265px;
 }
 
 
-
-h1 {
-    text-align: center;
-    background-color: darkgrey;
-    margin-top: auto;
-
-
-    margin-left: 200px;
-    margin-right: 200px;
+header {
+    text-align: justify;
+    background-color: rgb(73, 73, 73);
+    color: rgb(255, 255, 255);
+    margin: 0 200px;
+    padding: 10px;
 }
 
-.nv {
-    margin-left: 262px;
 
+.hh1{
+    font-size: 20px;
+}
 
-
+.tipagem{
+    color: orangered;
 }
 
 .ss {
-
     border: 1px solid darkgray;
     margin-bottom: 20px;
-    
-    
-
-
-
-
-
+    color: rgb(145, 145, 145);
+    text-align: justify;
 }
 
 .bolass {
     display: inline-flex;
-    text-align: center;
-    margin-right: 250px;
-    margin-bottom: 20px;
-    margin-left: 200px;
-    align-items: center;
-    
-
-
+    margin: 0 auto;
+    border: solid 1px rgb(145, 145, 145);
+    border-top: solid 20px rgb(145, 145, 145);
+    padding: 10px;
 }
 
 .princ {
-    margin-left: 100px;
-    margin-right: 100px;
+    margin: 0 auto;
 }
-
 
 form {
     border: 1px solid darkgray;
-    margin-left: 100px;
-    margin-right: 100px;
-    
+    margin: 0 200px;
 }
